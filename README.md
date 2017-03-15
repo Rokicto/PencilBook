@@ -7,8 +7,8 @@
 ### CNN
 
 - Lenet-5
-    Classic CNN structure to classification. Introduced by Lecun. 
-    An tensorflow implementation of Lenet-5 was writen to train on Cifar-10 dataset. 
+    Classic CNN structure to classification. Introduced by Lecun. <br>
+    An tensorflow implementation of Lenet-5 was writen to train on Cifar-10 dataset. 
 
 ### RNN
 
