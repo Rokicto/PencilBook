@@ -5,12 +5,17 @@
 ## Neural Network
 Read some fuxxxxx papers, then we talks.
 
+### Open Datasets   
+ + Cifar-10
+ + Cifar-100
+ 
 ### CNN
 
 - Lenet-5<br>
     Classic CNN structure to classification. Introduced by Lecun. <br>
-    An tensorflow implementation of Lenet-5 was writen to train on Cifar-10 dataset. 
-
+    An tensorflow implementation of Lenet-5 was writen to train on Cifar-10 dataset.
+- Facenet<br>
+    [Paper](https://arxiv.org/abs/1503.03832) arxiv 1503.03832<br>
 ##### How to go deeper?
 Try and use deeper architectures, which have general tendency to blow up or vanish the gradients. So new techniques were used to  circumnavigate the issues with deeper architectures.
  - Residual Nets
